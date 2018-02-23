@@ -11,4 +11,5 @@ Klappe-sensor til lys (tænd & sluk)  
 
 Sensor klasse - til at registrere når man klapper, til at registrere om der er nogle hjemme. 
 Og til at registrere hvad temperaturen er.
+
 KaffeMaskineApp.java
