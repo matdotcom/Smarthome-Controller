@@ -13,3 +13,6 @@ Sensor klasse - til at registrere når man klapper, til at registrere om der er 
 Og til at registrere hvad temperaturen er.
 
 KaffeMaskineApp.java
+
+abstractions, sensor klassen kan genbruges til alle sensorerne. 
+Vi kan lave et interface til sensorerne der checker hvad temperaturen er i alle rum. 
